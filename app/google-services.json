@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437505523310",
+    "project_id": "conexion-ac528",
+    "storage_bucket": "conexion-ac528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437505523310:android:50ef90899fef697c66707f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437505523310-htrd2oihec7egbk6t0h7gin3d99k35b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjiKGrHgxvmBhU45YhEVn8-_vWviDRaLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437505523310-htrd2oihec7egbk6t0h7gin3d99k35b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
